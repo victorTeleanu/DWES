@@ -12,7 +12,7 @@ if ($lang == "en") {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Header-Idioma</title>
+    <title>Idioma</title>
 </head>
 <body>
 <p>Idioma:<?php echo $lang;?></p>
